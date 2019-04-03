@@ -15,7 +15,8 @@
       <b-button variant="primary" href="/productos/nuevo">Nuevo</b-button>
     </div>
   </div>
-</template>
+</template> 
+/* dfef */
 
 <script>
 import firebase, { db } from "../../services/firebase";
